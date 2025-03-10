@@ -19,7 +19,7 @@ export default function Education() {
         <div class="box-container">
 
             <div class="box">
-                <div class="image">
+                <div class="image1">
                      <img draggable="false" className="tilt" src={image} alt="Hero Image" />
                     {/* <img draggable="false" src="/image/sahyog-college.jpg" alt=""> */}
                 </div>

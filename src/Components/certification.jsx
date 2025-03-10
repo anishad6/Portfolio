@@ -17,13 +17,13 @@ const Certifications = () => {
       id: 2,
       image: image2, // Use the imported image variable
       title: 'SQL',
-      link: 'https://courses.itvedant.skillsnetwork.site/certificates/7f4cb7e28144487a836b8d4adc8af7bb',
+      link: 'https://drive.google.com/file/d/128ni6ZKaQyMcsfm4emyC5wI79Y45opOQ/view?usp=drive_link',
     },
     {
       id: 3,
       image: image3, // Use the imported image variable
       title: 'Advance Web Design',
-      link: 'https://courses.itvedant.skillsnetwork.site/certificates/7f4cb7e28144487a836b8d4adc8af7bb',
+      link: 'https://drive.google.com/file/d/13Lo5rg2WwBgfKxisD5MizbsniPuNhqfz/view?usp=drive_link',
     },
     {
       id: 4,

@@ -627,12 +627,15 @@ p {
   width: 100%;
 }
 .education .box-container .box img {
-  object-fit: cover;
+  /* object-fit: cover; */
   position: relative;
-  width: 100%;
+  /* width: 100%; */
   /* width: auto;
   height: 100%; */
+  width: 100%;
+  height: 337px;
 }
+
 .education .box-container .box .content {
   position: relative;
   display: flex;
